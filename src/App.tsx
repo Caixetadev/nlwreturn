@@ -1,3 +1,5 @@
+import { Widget } from './components/Widget'
+
 export function App() {
-  return <button>caixeta</button>
+  return <Widget />
 }
